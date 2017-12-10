@@ -9,14 +9,43 @@
 
 	<context:component-scan base-package="com.taotao.controller" />
 	<mvc:annotation-driven />
+	<!--<bean-->
+			<!--class="org.springframework.web.servlet.view.InternalResourceViewResolver">-->
+		<!--<property name="prefix" value="/WEB-INF/html/" />-->
+		<!--<property name="suffix" value=".html" />-->
+	<!--</bean>-->
+
+	<!--这里配了一个视图解析器-->
 	<bean
-		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+	class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+	<!--<property name="prefix" value="/WEB-INF/jsp/" />-->
+	<!--<property name="suffix" value=".jsp" />-->
+
 		<property name="prefix" value="/WEB-INF/jsp/" />
 		<property name="suffix" value=".jsp" />
 	</bean>
+
+	<!--<bean id="viewResolver" class="org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver">-->
+		<!--<property name="exposeRequestAttributes" value="true" />-->
+		<!--<property name="exposeSessionAttributes" value="true" />-->
+		<!--<property name="viewClass">-->
+			<!--<value>org.springframework.web.servlet.view.freemarker.FreeMarkerView</value>-->
+		<!--</property>-->
+		<!--<property name="cache">-->
+			<!--<value>true</value>-->
+		<!--</property>-->
+		<!--<property name="suffix">-->
+			<!--<value>.html</value>-->
+		<!--</property>-->
+		<!--<property name="contentType">-->
+			<!--<value>text/html; charset=UTF-8</value>-->
+		<!--</property>-->
+	<!--</bean>-->
 	<!-- 资源映射 -->
+	<!-- mapping就是你请求哪个资源的url格式，比如你在浏览器里输入/css/**，只要是带这种格式的，就会来到/WEB-INF/css下面-->
 	<mvc:resources location="/WEB-INF/css/" mapping="/css/**"/>
 	<mvc:resources location="/WEB-INF/js/" mapping="/js/**"/>
+	<mvc:resources location="/WEB-INF/html/" mapping="/html/**"/>
 	
 	<!-- 定义文件上传解析器 -->
 	<bean id="multipartResolver"

@@ -1,8 +1,12 @@
 package com.taotao.controller;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import java.util.Locale;
 
 /**
  * 页面跳转controller
@@ -22,7 +26,15 @@ public class PageController {
 	@RequestMapping("/")
 	public String showIndex() {
 		return "index";
+		//return "/WEB-INF/html/login.html";
 	}
+
+//	@RequestMapping(value = "/home", method = RequestMethod.GET)
+//	public String home(){
+//		return "html/login.html";
+//	}
+
+
 	/**
 	 * 展示其他页面
 	 * <p>Title: showpage</p>

@@ -44,6 +44,7 @@
 		</init-param>
 		<load-on-startup>1</load-on-startup>
 	</servlet>
+	<!-- 这里会拦截所有请求-->
 	<servlet-mapping>
 		<servlet-name>taotao-manager</servlet-name>
 		<url-pattern>/</url-pattern>

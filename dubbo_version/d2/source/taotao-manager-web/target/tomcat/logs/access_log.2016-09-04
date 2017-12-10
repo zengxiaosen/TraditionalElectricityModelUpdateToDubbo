@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [04/Sep/2016:18:28:27 +0800] "GET / HTTP/1.1" 200 2475 http-bio-8081-exec-1 968
+0:0:0:0:0:0:0:1 - - [04/Sep/2016:18:28:28 +0800] "GET /js/jquery-easyui-1.4.1/jquery.min.js HTTP/1.1" 304 - http-bio-8081-exec-4 8
+0:0:0:0:0:0:0:1 - - [04/Sep/2016:18:28:28 +0800] "GET /js/jquery-easyui-1.4.1/jquery.easyui.min.js HTTP/1.1" 304 - http-bio-8081-exec-5 17
+0:0:0:0:0:0:0:1 - - [04/Sep/2016:18:28:28 +0800] "GET /css/taotao.css HTTP/1.1" 304 - http-bio-8081-exec-3 13
+0:0:0:0:0:0:0:1 - - [04/Sep/2016:18:28:28 +0800] "GET /js/jquery-easyui-1.4.1/themes/icon.css HTTP/1.1" 304 - http-bio-8081-exec-2 8
+0:0:0:0:0:0:0:1 - - [04/Sep/2016:18:28:28 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/easyui.css HTTP/1.1" 304 - http-bio-8081-exec-7 25
+0:0:0:0:0:0:0:1 - - [04/Sep/2016:18:28:28 +0800] "GET /js/jquery-easyui-1.4.1/locale/easyui-lang-zh_CN.js HTTP/1.1" 304 - http-bio-8081-exec-6 35
+0:0:0:0:0:0:0:1 - - [04/Sep/2016:18:28:28 +0800] "GET /js/common.js HTTP/1.1" 304 - http-bio-8081-exec-8 15
+0:0:0:0:0:0:0:1 - - [04/Sep/2016:18:28:29 +0800] "GET /item-list?_=1472984908193 HTTP/1.1" 200 6784 http-bio-8081-exec-4 69
+0:0:0:0:0:0:0:1 - - [04/Sep/2016:18:28:40 +0800] "GET /item/list?page=1&rows=30 HTTP/1.1" 200 11531 http-bio-8081-exec-4 11047
