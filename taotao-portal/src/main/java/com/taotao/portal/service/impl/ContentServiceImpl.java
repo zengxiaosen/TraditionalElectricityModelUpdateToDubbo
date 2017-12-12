@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import com.taotao.pojo.TbContentExample;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
@@ -61,5 +62,8 @@ public class ContentServiceImpl implements ContentService {
 		
 		return null;
 	}
+
+
+
 
 }

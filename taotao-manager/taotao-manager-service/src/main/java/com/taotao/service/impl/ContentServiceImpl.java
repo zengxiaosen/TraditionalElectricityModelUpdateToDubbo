@@ -1,7 +1,9 @@
 package com.taotao.service.impl;
 
 import java.util.Date;
+import java.util.List;
 
+import com.taotao.pojo.TbContentExample;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
@@ -30,6 +32,8 @@ public class ContentServiceImpl implements ContentService {
 	private String REST_BASE_URL;
 	@Value("${REST_CONTENT_SYNC_URL}")
 	private String REST_CONTENT_SYNC_URL;
+//	@Autowired
+//	private JedisClient jedisClient;
 	
 	
 	@Override
@@ -48,5 +52,7 @@ public class ContentServiceImpl implements ContentService {
 		
 		return TaotaoResult.ok();
 	}
+
+
 
 }

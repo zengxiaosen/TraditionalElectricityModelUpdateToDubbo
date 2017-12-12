@@ -15,6 +15,7 @@ com/taotao/portal/service/OrderService.class
 com/taotao/portal/pojo/CartItem.class
 com/taotao/portal/controller/OrderController.class
 com/taotao/portal/service/ContentService.class
+com/taotao/portal/pojo/AD1Node.class
 com/taotao/portal/service/ItemService.class
 com/taotao/portal/service/impl/OrderServiceImpl.class
 com/taotao/portal/service/SearchService.class

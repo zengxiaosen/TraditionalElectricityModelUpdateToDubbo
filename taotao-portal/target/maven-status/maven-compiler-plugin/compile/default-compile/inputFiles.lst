@@ -4,6 +4,7 @@
 /home/zengxiaosen/项目源码/taotao-portal/src/main/java/com/taotao/portal/service/ItemService.java
 /home/zengxiaosen/项目源码/taotao-portal/src/main/java/com/taotao/portal/service/impl/UserServiceImpl.java
 /home/zengxiaosen/项目源码/taotao-portal/src/main/java/com/taotao/portal/service/impl/OrderServiceImpl.java
+/home/zengxiaosen/项目源码/taotao-portal/src/main/java/com/taotao/portal/pojo/AD1Node.java
 /home/zengxiaosen/项目源码/taotao-portal/src/main/java/com/taotao/portal/service/impl/CartServiceImpl.java
 /home/zengxiaosen/项目源码/taotao-portal/src/main/java/com/taotao/portal/controller/SearchController.java
 /home/zengxiaosen/项目源码/taotao-portal/src/main/java/com/taotao/portal/controller/IndexController.java

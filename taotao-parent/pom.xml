@@ -36,6 +36,11 @@
 	</properties>
 	<dependencyManagement>
 		<dependencies>
+			<dependency>
+				<groupId>redis.clients</groupId>
+				<artifactId>jedis</artifactId>
+				<version>${jedis.version}</version>
+			</dependency>
 			<!-- 时间操作组件 -->
 			<dependency>
 				<groupId>joda-time</groupId>

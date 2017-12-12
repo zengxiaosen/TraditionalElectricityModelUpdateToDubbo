@@ -16,13 +16,13 @@ import redis.clients.jedis.JedisCluster;
 import redis.clients.jedis.JedisPool;
 
 public class JedisTest {
-	
+
 	private static final Logger LOGGER = LoggerFactory.getLogger(JedisTest.class);
-	
+
 	@Test
 	public void testJedisSingle() {
 		//创建一个jedis的对象。
-		Jedis jedis = new Jedis("192.168.25.153", 6379);
+		Jedis jedis = new Jedis("localhost", 6379);
 		//调用jedis对象的方法，方法名称和redis的命令一致。
 		jedis.set("key1", "jedis test");
 		String string = jedis.get("key1");
@@ -30,7 +30,7 @@ public class JedisTest {
 		//关闭jedis。
 		jedis.close();
 	}
-	
+
 	/**
 	 * 使用连接池
 	 */
@@ -46,7 +46,7 @@ public class JedisTest {
 		jedis.close();
 		pool.close();
 	}
-	
+
 	/**
 	 * 集群版测试
 	 * <p>Title: testJedisCluster</p>
@@ -66,7 +66,7 @@ public class JedisTest {
 		JedisCluster cluster = new JedisCluster(nodes);
 		LOGGER.debug("设置key1的值为1000");
 		cluster.set("key1", "1000");
-		
+
 		LOGGER.debug("从Redis中取key1的值");
 		String string = cluster.get("key1");
 		System.out.println(string);
@@ -77,7 +77,7 @@ public class JedisTest {
 			LOGGER.error("系统发送异常", e);
 		}
 	}
-	
+
 	/**
 	 * 单机版测试
 	 * <p>Title: testSpringJedisSingle</p>
@@ -93,7 +93,7 @@ public class JedisTest {
 		jedis.close();
 		pool.close();
 	}
-	
+
 	@Test
 	public void testSpringJedisCluster() {
 		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("classpath:spring/applicationContext-*.xml");
