@@ -2,74 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d03f3135-2a86-4347-91f8-002e70177829" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/artifacts/taotao_portal_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/artifacts/taotao_portal_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__com_taotao_taotao_common_0_0_1_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__com_taotao_taotao_manager_pojo_0_0_1_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__commons_net_commons_net_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__joda_time_joda_time_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/taotao-portal.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/controller/CartController.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/controller/CartController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/controller/IndexController.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/controller/IndexController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/controller/ItemController.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/controller/ItemController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/controller/OrderController.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/controller/OrderController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/controller/SearchController.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/controller/SearchController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/interceptor/LoginInterceptor.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/interceptor/LoginInterceptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/pojo/CartItem.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/pojo/CartItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/pojo/Item.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/pojo/Item.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/pojo/ItemInfo.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/pojo/ItemInfo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/pojo/Order.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/pojo/Order.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/pojo/SearchResult.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/pojo/SearchResult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/CartService.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/CartService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/ItemService.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/ItemService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/OrderService.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/OrderService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/SearchService.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/SearchService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/UserService.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/UserService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/CartServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/CartServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/ContentServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/ContentServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/ItemServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/ItemServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/OrderServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/OrderServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/SearchServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/SearchServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/UserServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/com/taotao/portal/service/impl/UserServiceImpl.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/m2e-wtp/web-resources/META-INF/maven/com.taotao/taotao-portal/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/m2e-wtp/web-resources/META-INF/maven/com.taotao/taotao-portal/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/conf/logging.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/conf/tomcat-users.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/conf/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/logs/access_log.2015-09-18" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/cartSuccess_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/cartSuccess_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/cart_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/cart_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/footer_002dlinks_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/footer_002dlinks_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/footer_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/footer_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/header_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/header_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/shortcut_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/shortcut_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/index_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/index_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/item_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/item_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/order_002dcart_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/order_002dcart_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/search_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/search_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/success_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-portal/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/success_jsp.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-web/target/taotao-manager-web.war" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-web/target/taotao-manager-web.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal.war" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/controller/CartController.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/controller/CartController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/controller/IndexController.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/controller/IndexController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/controller/ItemController.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/controller/ItemController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/controller/OrderController.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/controller/OrderController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/controller/SearchController.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/controller/SearchController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/interceptor/LoginInterceptor.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/interceptor/LoginInterceptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/pojo/CartItem.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/pojo/CartItem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/pojo/Item.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/pojo/Item.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/pojo/ItemInfo.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/pojo/ItemInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/pojo/Order.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/pojo/Order.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/pojo/SearchResult.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/pojo/SearchResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/CartService.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/CartService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/ItemService.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/ItemService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/OrderService.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/OrderService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/SearchService.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/SearchService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/UserService.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/UserService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/CartServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/CartServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/ContentServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/ContentServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/ItemServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/ItemServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/OrderServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/OrderServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/SearchServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/SearchServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/UserServiceImpl.class" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/com/taotao/portal/service/impl/UserServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/lib/taotao-common-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/lib/taotao-common-0.0.1-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/lib/taotao-manager-pojo-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/lib/taotao-manager-pojo-0.0.1-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manager/.idea/workspace.xml" afterPath="$PROJECT_DIR$/taotao-manager/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/.idea/workspace.xml" afterPath="$PROJECT_DIR$/taotao-portal/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/pom.xml" afterPath="$PROJECT_DIR$/taotao-portal/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/src/main/resources/spring/springmvc.xml" afterPath="$PROJECT_DIR$/taotao-portal/src/main/resources/spring/springmvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/src/main/resources/resource/resource.properties" afterPath="$PROJECT_DIR$/taotao-portal/src/main/resources/resource/resource.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/resource/resource.properties" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/resource/resource.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/classes/spring/springmvc.xml" afterPath="$PROJECT_DIR$/taotao-portal/target/classes/spring/springmvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/taotao-portal/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/taotao-portal/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/taotao-portal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/taotao-portal/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/taotao-portal/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/resource/resource.properties" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/resource/resource.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/spring/springmvc.xml" afterPath="$PROJECT_DIR$/taotao-portal/target/taotao-portal/WEB-INF/classes/spring/springmvc.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,23 +82,52 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TaotaoResult.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/taotao-common/src/main/java/com/taotao/common/pojo/TaotaoResult.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-parent/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            <state relative-caret-position="-3131">
+              <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-interface/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContentCategoryService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-interface/src/main/java/com/taotao/content/service/ContentCategoryService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#732#733#0" expanded="true" />
+                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubbo_version/d2/source/taotao-manager/taotao-manager-service/src/main/resources/properties/db.properties">
+      <file leaf-file-name="ContentService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-interface/src/main/java/com/taotao/content/service/ContentService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -106,38 +136,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SqlMapConfig.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubbo_version/d2/source/taotao-manager/taotao-manager-service/src/main/resources/mybatis/SqlMapConfig.xml">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubbo_version/d2/source/taotao-manager/taotao-manager-service/src/main/resources/spring/applicationContext-dao.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubbo_version/d2/source/taotao-manager/taotao-manager-service/src/main/resources/spring/applicationContext-service.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="100">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="applicationContext-trans.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubbo_version/d2/source/taotao-manager/taotao-manager-service/src/main/resources/spring/applicationContext-trans.xml">
+        <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-service/src/main/resources/spring/applicationContext-trans.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-219">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-service/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -146,99 +166,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EasyUIDataGridResult.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubbo_version/d2/source/taotao-common/src/main/java/com/taotao/common/pojo/EasyUIDataGridResult.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-order/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-857">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Item.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/taotao-search/src/main/java/com/taotao/search/pojo/Item.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#211#212#0" expanded="false" />
-                <element signature="e#230#231#0" expanded="false" />
-                <element signature="e#266#267#0" expanded="false" />
-                <element signature="e#291#292#0" expanded="false" />
-                <element signature="e#316#317#0" expanded="false" />
-                <element signature="e#334#335#0" expanded="false" />
-                <element signature="e#368#369#0" expanded="false" />
-                <element signature="e#391#392#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbItemCat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubbo_version/d2/source/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemCat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#373#374#0" expanded="false" />
-                <element signature="e#398#399#0" expanded="false" />
-                <element signature="e#432#433#0" expanded="false" />
-                <element signature="e#460#461#0" expanded="false" />
-                <element signature="e#493#494#0" expanded="false" />
-                <element signature="e#524#525#0" expanded="false" />
-                <element signature="e#570#571#0" expanded="false" />
-                <element signature="e#610#611#0" expanded="false" />
-                <element signature="e#641#642#0" expanded="false" />
-                <element signature="e#668#669#0" expanded="false" />
-                <element signature="e#708#709#0" expanded="false" />
-                <element signature="e#769#770#0" expanded="false" />
-                <element signature="e#803#804#0" expanded="false" />
-                <element signature="e#832#833#0" expanded="false" />
-                <element signature="e#877#878#0" expanded="false" />
-                <element signature="e#913#914#0" expanded="false" />
-                <element signature="e#950#951#0" expanded="false" />
-                <element signature="e#982#983#0" expanded="false" />
-                <element signature="e#1033#1034#0" expanded="false" />
-                <element signature="e#1075#1076#0" expanded="false" />
-                <element signature="e#1111#1112#0" expanded="false" />
-                <element signature="e#1142#1143#0" expanded="false" />
-                <element signature="e#1191#1192#0" expanded="false" />
-                <element signature="e#1231#1232#0" expanded="false" />
-                <element signature="e#1263#1264#0" expanded="false" />
-                <element signature="e#1293#1294#0" expanded="false" />
-                <element signature="e#1337#1338#0" expanded="false" />
-                <element signature="e#1375#1376#0" expanded="false" />
-                <element signature="e#1407#1408#0" expanded="false" />
-                <element signature="e#1437#1438#0" expanded="false" />
-                <element signature="e#1481#1482#0" expanded="false" />
-                <element signature="e#1519#1520#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EUTreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotao-common/src/main/java/com/taotao/common/pojo/EUTreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-              <folding>
-                <element signature="e#315#316#0" expanded="false" />
-                <element signature="e#331#332#0" expanded="false" />
-                <element signature="e#361#362#0" expanded="false" />
-                <element signature="e#380#381#0" expanded="false" />
-                <element signature="e#407#408#0" expanded="false" />
-                <element signature="e#425#426#0" expanded="false" />
-                <element signature="e#461#462#0" expanded="false" />
-                <element signature="e#484#485#0" expanded="false" />
-                <element signature="e#569#570#0" expanded="false" />
-                <element signature="e#594#595#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JsonUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotao-common/src/main/java/com/taotao/common/utils/JsonUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -278,8 +221,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2018" />
-    <option name="y" value="319" />
+    <option name="x" value="1935" />
+    <option name="y" value="24" />
     <option name="width" value="1625" />
     <option name="height" value="1056" />
   </component>
@@ -321,7 +264,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/taotao-portal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/taotao-manager" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -749,15 +692,16 @@
       <workItem from="1510202272639" duration="75000" />
       <workItem from="1511921599761" duration="9799000" />
       <workItem from="1512805614450" duration="4275000" />
-      <workItem from="1512937836983" duration="10593000" />
+      <workItem from="1512937836983" duration="13175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25907000" />
+    <option name="totallyTimeSpent" value="28489000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2018" y="319" width="1625" height="1056" extended-state="1" />
+    <frame x="1935" y="24" width="1625" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -804,79 +748,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-mapper/src/main/java/com/taotao/mapper/TbContentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-mapper/src/main/java/com/taotao/mapper/TbOrderItemMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-mapper/src/main/java/com/taotao/mapper/TbOrderMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-mapper/src/main/java/com/taotao/mapper/TbContentCategoryMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-mapper/src/main/java/com/taotao/mapper/TbItemParamMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager/.project">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-web/src/main/webapp/WEB-INF/css/taotao.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-web/src/test/java/com/taotao/controller/FTPTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-web/src/test/java/com/taotao/controller/TestPageHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="23" column="27" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="37" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -897,14 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
           <folding />
         </state>
       </provider>
@@ -935,6 +798,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1223,14 +1087,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dubbo_version/d2/source/taotao-manager/taotao-manager-service/src/main/resources/properties/db.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1365,11 +1221,122 @@
         <state relative-caret-position="180">
           <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding>
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#836#837#0" expanded="false" />
+            <element signature="e#894#895#0" expanded="false" />
+            <element signature="e#1282#1283#0" expanded="false" />
+            <element signature="e#1311#1312#0" expanded="false" />
+            <element signature="e#1356#1357#0" expanded="false" />
+            <element signature="e#1392#1393#0" expanded="false" />
+            <element signature="e#1422#1423#0" expanded="false" />
+            <element signature="e#1448#1449#0" expanded="false" />
+            <element signature="e#1486#1487#0" expanded="false" />
+            <element signature="e#1516#1517#0" expanded="false" />
+            <element signature="e#1547#1548#0" expanded="false" />
+            <element signature="e#1574#1575#0" expanded="false" />
+            <element signature="e#1614#1615#0" expanded="false" />
+            <element signature="e#1646#1647#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3131">
+          <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-interface/src/main/java/com/taotao/content/service/ContentCategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-interface/src/main/java/com/taotao/content/service/ContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-service/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-219">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo_version/d4/source/source/taotao-content/taotao-content-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-857">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-search/src/main/java/com/taotao/search/pojo/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
