@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /search.html?q=%E6%89%8B%E6%9C%BA HTTP/1.1" 200 9459 http-bio-8085-exec-1 994
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /css/base.css HTTP/1.1" 304 - http-bio-8085-exec-7 2
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /css/order-commons.css HTTP/1.1" 304 - http-bio-8085-exec-2 2
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 304 - http-bio-8085-exec-8 2
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /js/order.common.js HTTP/1.1" 304 - http-bio-8085-exec-3 2
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /js/jquery-extend.js HTTP/1.1" 304 - http-bio-8085-exec-10 1
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /js/jquery.checkout.js HTTP/1.1" 304 - http-bio-8085-exec-3 2
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /js/taotao.js HTTP/1.1" 304 - http-bio-8085-exec-5 2
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /js/base.js HTTP/1.1" 304 - http-bio-8085-exec-9 14
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /js/lib-v1.js HTTP/1.1" 304 - http-bio-8085-exec-4 1
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 304 - http-bio-8085-exec-4 1
+0:0:0:0:0:0:0:1 - - [10/Sep/2016:12:19:41 +0800] "GET /images/errordog.jpg HTTP/1.1" 304 - http-bio-8085-exec-4 1
