@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /order/order-cart.html HTTP/1.1" 200 26019 http-bio-8091-exec-1 1249
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /css/order-commons.css HTTP/1.1" 304 - http-bio-8091-exec-2 3
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /js/order.common.js HTTP/1.1" 304 - http-bio-8091-exec-8 2
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /js/jquery.checkout.js HTTP/1.1" 304 - http-bio-8091-exec-5 3
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 304 - http-bio-8091-exec-3 2
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /js/base.js HTTP/1.1" 304 - http-bio-8091-exec-4 4
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /css/base.css HTTP/1.1" 304 - http-bio-8091-exec-7 1
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 304 - http-bio-8091-exec-9 1
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /js/lib-v1.js HTTP/1.1" 304 - http-bio-8091-exec-7 1
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /js/jquery-extend.js HTTP/1.1" 304 - http-bio-8091-exec-9 2
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /js/taotao.js HTTP/1.1" 304 - http-bio-8091-exec-4 2
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:10 +0800] "GET /images/20130725.png HTTP/1.1" 304 - http-bio-8091-exec-4 1
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:11 +0800] "GET /images/20130330A_2.png HTTP/1.1" 304 - http-bio-8091-exec-9 0
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:11 +0800] "GET /images/user_purchase.png HTTP/1.1" 304 - http-bio-8091-exec-7 1
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:56:11 +0800] "GET /images/purchase-icon.png HTTP/1.1" 304 - http-bio-8091-exec-7 1
+0:0:0:0:0:0:0:1 - - [17/Sep/2016:11:57:07 +0800] "POST /order/create.html HTTP/1.1" 404 949 http-bio-8091-exec-7 5
