@@ -67,6 +67,7 @@ public class UserServiceImpl implements UserService {
 		if (list == null || list.size() == 0) {
 			return TaotaoResult.ok(true);
 		}
+		//查询到数据，数据不可用
 		return TaotaoResult.ok(false);
 	}
 

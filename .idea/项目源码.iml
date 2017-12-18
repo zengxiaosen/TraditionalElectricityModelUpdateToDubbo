@@ -524,6 +524,246 @@
         </webroots>
       </configuration>
     </facet>
+    <facet type="web" name="Web53">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-search/taotao-search-service/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-search/taotao-search-service/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web54">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-manager/taotao-manager-service/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-manager/taotao-manager-service/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web55">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-content/taotao-content-service/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-content/taotao-content-service/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web56">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-search-web/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-search-web/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web57">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-manager-web/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-manager-web/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web58">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-search/taotao-search-service/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-search/taotao-search-service/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web59">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-portal-web/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-portal-web/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web60">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-manager/taotao-manager-service/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-manager/taotao-manager-service/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web61">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-content/taotao-content-service/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-content/taotao-content-service/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web62">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-search-web/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-search-web/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web63">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-manager-web/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-manager-web/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web64">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-portal-web/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-portal-web/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web65">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-manager/taotao-manager-service/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-manager/taotao-manager-service/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web66">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-manager-web/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-manager-web/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web67">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-search-web/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-search-web/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web68">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-manager/taotao-manager-service/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-manager/taotao-manager-service/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web69">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-search/taotao-search-service/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-search/taotao-search-service/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web70">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-portal-web/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-portal-web/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web71">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-content/taotao-content-service/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-content/taotao-content-service/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web72">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-search/taotao-search-service/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-search/taotao-search-service/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web73">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-manager-web/target/tomcat/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-manager-web/target/tomcat/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web74">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-search-web/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d8/source/source/taotao-search-web/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web75">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-content/taotao-content-service/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-content/taotao-content-service/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web76">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-portal-web/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/dubbo_version/d7/source/source/taotao-portal-web/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
