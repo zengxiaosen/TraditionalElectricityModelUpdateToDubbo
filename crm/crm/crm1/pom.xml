@@ -11,20 +11,64 @@
 
 
 	<properties>
-		<spring.version>4.2.2.RELEASE</spring.version>
+		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+		<spring.version>4.3.7.RELEASE</spring.version>
 		<spring-data.version>1.2.0.RELEASE</spring-data.version>
+
 	</properties>
 
 
 
 	<dependencies>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.1.0</version>
+			<scope>provided</scope>
+		</dependency>
 
 
+
+
+		<!-- 引入测试所需的依赖，使用spring4.3.x版本整合需要引入junit4.12及以上 -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+		</dependency>
+
+		<!-- 整合SpringMVC会自动引入其他所需的spring核心依赖 -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-framework-bom</artifactId>
+			<version>4.3.7.RELEASE</version>
+			<type>pom</type>
+			<scope>import</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.mybatis</groupId>
+			<artifactId>mybatis</artifactId>
+			<version>3.3.0</version>
+		</dependency>
+
+		<!-- 添加mybatis与sping整合依赖 -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-orm</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.mybatis</groupId>
+			<artifactId>mybatis-spring</artifactId>
+			<version>1.2.3</version>
 		</dependency>
 
 		<dependency>
@@ -64,12 +108,33 @@
 			<version>${spring.version}</version>
 			<scope>test</scope>
 		</dependency>
+		<!-- dbcp数据库连接池依赖 -->
 
+
+		<!-- logback日志依赖 -->
+		<!--<dependency>-->
+			<!--<groupId>ch.qos.logback</groupId>-->
+			<!--<artifactId>logback-classic</artifactId>-->
+			<!--<version>1.1.7</version>-->
+		<!--</dependency>-->
+
+		<!--<dependency>-->
+			<!--<groupId>com.alibaba</groupId>-->
+			<!--<artifactId>druid</artifactId>-->
+			<!--<version>1.0.18</version>-->
+		<!--</dependency>-->
+		<!-- 添加JSTL标签库 -->
 		<dependency>
-			<groupId>jstl</groupId>
+			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
+		<dependency>
+			<groupId>taglibs</groupId>
+			<artifactId>standard</artifactId>
+			<version>1.1.2</version>
+		</dependency>
+
 
 		<dependency>
 			<groupId>org.springframework.data</groupId>
@@ -77,17 +142,8 @@
 			<version>${spring-data.version}</version>
 		</dependency>
 
-		<dependency>
-			<groupId>org.hibernate.javax.persistence</groupId>
-			<artifactId>hibernate-jpa-2.0-api</artifactId>
-			<version>1.0.0.Final</version>
-		</dependency>
 
-		<dependency>
-			<groupId>org.hibernate</groupId>
-			<artifactId>hibernate-entitymanager</artifactId>
-			<version>3.6.10.Final</version>
-		</dependency>
+
 
 		<dependency>
 			<groupId>mysql</groupId>
@@ -109,8 +165,18 @@
 
 
 	</dependencies>
+	<!-- 如果不添加此节点mybatis的mapper.xml文件会在target中被漏掉-->
 	<build>
-
+		<resources>
+			<resource>
+				<directory>src/main/java</directory>
+				<includes>
+					<include>**/*.properties</include>
+					<include>**/*.xml</include>
+				</includes>
+				<filtering>false</filtering>
+			</resource>
+		</resources>
 	</build>
 
 </project>

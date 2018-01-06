@@ -31,6 +31,18 @@
 		<property name="prefix" value="/WEB-INF/jsp/" />
 		<property name="suffix" value=".jsp" />
 	</bean>
+	<!-- 如果没有显示的配置处理器映射器和处理器适配器，那么springmvc会去默认的dispatcherServlet.properties中查找，
+	对应的处理器映射器和处理器适配器去使用，这样每个请求都要去扫描一次他的默认配置文件爱你，效率非常低，会降低访问速度，所以要
+	显示的配置处理器映射器和处理器适配器-->
+	<!-- 注解形式的处理器映射器-->
+	<!--<bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping"></bean>-->
+	<!-- 注解形式的处理器适配器-->
+	<!--<bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter"></bean>-->
+
+	<!-- 配置最新版的处理器映射器-->
+	<!--<bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping"></bean>-->
+	<!-- 配置最新版的注解的处理器适配器-->
+	<!--<bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter"></bean>-->
 
 	<!--<bean id="viewResolver" class="org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver">-->
 		<!--<property name="exposeRequestAttributes" value="true" />-->

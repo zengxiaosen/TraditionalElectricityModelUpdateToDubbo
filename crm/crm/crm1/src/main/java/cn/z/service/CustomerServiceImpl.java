@@ -1,7 +1,7 @@
 package cn.z.service;
 
-import cn.z.dao.CustomerMapper;
-import cn.z.dao.DictMapper;
+import cn.z.mapper.CustomerMapper;
+import cn.z.mapper.DictMapper;
 import cn.z.pojo.BaseDict;
 import cn.z.pojo.Customer;
 import cn.z.pojo.QueryVo;
