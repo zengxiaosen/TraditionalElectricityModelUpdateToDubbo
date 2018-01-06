@@ -35,7 +35,7 @@
         <servlet-name>springmvc</servlet-name>
         <!--
         *.action    代表拦截后缀名为.action结尾的
-        / 			拦截所有但是不包括.jsp
+        / 			拦截所有但是不包括.jsp.
         /* 			拦截所有包括.jsp
          -->
         <url-pattern>*.action</url-pattern>
