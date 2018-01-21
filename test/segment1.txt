@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>第一个网页</title>
+    </head>
+    <body>
+        <font>天佑中华</font></br>
+        <font size="7">我个大</font>
+        <font size="1">我个大</font>
+        </br>
+
+        <font color="red">我很红</font>
+        <font color="#ff0000">我很红</font>
+        <font color="#ff00ff">我很红</font>
+
+        <font face="黑体" size="6">我很黑</font>
+
+        <h1>欢迎您</h1>
+        <h2>欢迎您</h2>
+        <h3 align="center">欢迎您</h3>
+        <h4>欢迎您</h4>
+        <h5>欢迎您</h5>
+        <h6>欢迎您</h6>
+    </body>
+</html>
+//////////////////////
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>第二个网页</title>
+    </head>
+    <body>
+        <h3>简介</h3>
+        <hr />
+        <p><i><strong>第</strong></i><font color="#ff0000">一</font><b>段</b></p>
+        <p>第二段</p>
+        <p>第三段</p>
+        <p>第四段</p>
+        <img src="img/fattree.png" alt="胖树logo" title="移动--------------" height="500px"/>
+        <br/>
+        <img src="img/fattree.png" alt="sdn" height="200px" />
+    </body>
+</html>
+///////////////////////////
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>第三个网页</title>
+    </head>
+    <body>
+        <ol type="a">
+            <li>貂蝉</li>
+            <li>西施</li>
+            <li>杨玉环</li>
+            <li>王昭君</li>
+        </ol>
+        <hr />
+        <ul type="square">
+            <li>刘德华</li>
+            <li>张学友</li>
+            <li>郭富城</li>
+            <li>黎明</li>
+        </ul>
+        <hr />
+        <h2>友情链接</h2>
+        <ol>
+            <li><a href="https://www.csdn.net/" target="_blank">csdn</a></li>
+            <li>bupt</li>
+            <li>oracle</li>
+        </ol>
+    </body>
+</html>
+//////////////////////////////
+//表格test
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <table border="1" width="40%" height="200px" align="center" bgcolor="#ffff00">
+            <!--创建一个四行三列的表格 -->
+            <tr align="center">
+                <td>11</td>
+                <td>12</td>
+                <td>13</td>
+            </tr>
+            <tr align="center">
+                <td>21</td>
+                <td colspan="2">22&23</td>
+                
+            </tr>
+            <tr>
+                <td rowspan="2">31&41</td>
+                <td align="center">32</td>
+                <td>33</td>
+            </tr>
+            <tr>
+                
+                <td>42</td>
+                <td>43</td>
+            </tr>
+        </table>
+
+        <hr />
+        <table border="1" width="40%" height="200px" align="center" >
+            <!--创建一个四行三列的表格 -->
+            <tr align="center">
+                <td>11</td>
+                <td>12</td>
+                <td>13</td>
+            </tr>
+            <tr>
+                <td>21</td>
+                <td>22</td>
+                <td>23</td>
+            </tr>
+            <tr>
+                <td>31</td>
+                <td align="center">32</td>
+                <td>33</td>
+            </tr>
+            <tr>
+                <td>41</td>
+                <td>42</td>
+                <td>43</td>
+            </tr>
+        </table>
+
+        <hr />
+        <table border="1" width="40%" height="200px" align="center" bgcolor="#ffff00">
+            <!--创建一个四行三列的表格 -->
+            <tr align="center">
+                <th>11</th>
+                <th>12</th>
+                <td>13</td>
+            </tr>
+            <tr align="center">
+                <td>21</td>
+                <td colspan="2">22&23</td>
+                
+            </tr>
+            <tr>
+                <td rowspan="2">31&41</td>
+                <td align="center">32</td>
+                <td>33</td>
+            </tr>
+            <tr>
+                
+                <td>42</td>
+                <td>43</td>
+            </tr>
+        </table>
+    </body>
+</html>
+/////////////////////
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>第四个网页</title>
+    </head>
+    <body>
+        <table border="1" width="100%">
+            <!--8行1列-->
+            <!--logo
+                嵌套一行三列的表格-->
+            <tr>
+                <td>
+                    <table width="100%">
+                        <tr>
+                            <td>
+                                <img src="img/small08.jpg" height="40px"/>
+                            </td>
+                            <td align="center">
+                                <img src="img/header.jpg" />
+                            </td>
+                            <td align="right">
+                                <a href="#">登录</a>
+                                <a href="#">注册</a>
+                                <a href="#">购物车</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!--
+                菜单
+            -->
+            <tr>
+                <td bgcolor="black" height="40px">
+                    &nbsp;<a href="#"><font color="white" size="4">首页</font></a>&nbsp;
+                    &nbsp;<a href="#"><font color="white" size="4">首页</font></a>&nbsp;
+                    &nbsp;<a href="#"><font color="white" size="4">首页</font></a>&nbsp;
+                </td>
+            </tr>
+            <!--
+                轮播图
+            -->
+            <tr>
+                <td>
+                    <img src="img/1.jpg" width="100%" />
+                </td>
+            </tr>
+            <!--
+                热门商品
+                嵌套2行7列的表格
+            -->
+            <tr>
+                <td>
+                    <font size="6" face="黑体">热门商品</font>
+                    <img src="img/title2.jpg" />
+                    <table width="100%">
+                        <tr>
+                            <td rowspan="2">
+                                <img src="img/big01.jpg"/>
+                            </td>
+                            <td colspan="3">
+                                <img src="img/middle01.jpg"/>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!--
+                广告
+            -->
+            <tr>
+                <td>
+                    <img src="img/ad.jpg" width="100%"/>
+                </td>
+            </tr>
+            <!--
+                最新商品
+                嵌套2行7列表格
+            -->
+            <tr>
+                <td>
+                    <font size="6" face="黑体">最新商品</font>
+                    <img src="img/title2.jpg" />
+                    <table width="100%">
+                        <tr>
+                            <td rowspan="2">
+                                <img src="img/big01.jpg"/>
+                            </td>
+                            <td colspan="3">
+                                <img src="img/middle01.jpg"/>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                        </tr>
+                    </table>                    
+                </td>
+            </tr>
+            <!--
+                一张图片
+            -->
+            <tr>
+                <td>
+                    <img src="img/footer.jpg" width="100%"/>
+                </td>
+            </tr>
+            <!--
+                版权root
+                两个段落
+            -->
+            <tr>
+                <td>
+                    <p align="center">
+                        <a href="#">关于我们</a>
+                        <a href="#">关于我们</a>
+                        <a href="#">关于我们</a>
+                        <a href="#">关于我们</a>
+                        <a href="#">关于我们</a>
+                    </p>
+                    <p align="center">
+                        Copyright @ 2005-2016 版权所有
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
+////////////////////
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>第四个网页</title>
+    </head>
+    <body>
+        <form action="" method="post">
+            <input type="hidden" name="id" value="007"/>
+            姓名:<input name="username" value="xuduoduo"><br>
+            密码:<input type="password" name="password" value="123" readonly="readonly"><br>
+            性别:<input type="radio" name="sex" value="1" checked="checked">男
+                <input type="radio" name="sex" value="0">女
+                <br>
+            爱好:<input type="checkbox" name="hobby" value="eat">吃
+                <input type="checkbox" name="hobby" value="drink" checked="checked">喝
+                <input type="checkbox" name="hobby" value="sleep" checked="checked">睡
+                <br>
+            头像:<input type="file" name="photo">
+                <br>
+            籍贯:
+                <select name="pro">
+                    <option value="01">黑龙江</option>
+                    <option value="02">吉林</option>
+                    <option value="03" selected="selected">辽宁</option>
+                </select>
+                <select name="city">
+                    <option >-请选择-</option>
+                    <option value="0101">哈尔滨</option>
+                    <option value="0102">漠河</option>
+                    <option value="0201">长春</option>
+                    <option value="0202">吉林</option>
+                    <option value="0301">沈阳</option>
+                    <option value="0302">锦州</option>
+                </select>
+            <br>
+            自我介绍:
+                <textarea name="intr" cols="40" rows="4">good!</textarea>
+            <br>
+            <input type="submit" value="保存"/>
+            <input type="reset" value="重置"/>
+            <input type="button" value="普通按钮"/>
+
+
+        </form>
+    </body>
+</html>
+///////////////////////
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>第四个网页</title>
+    </head>
+    <body>
+        <table border="1" width="100%">
+                <!--8行1列-->
+                <!--logo
+                    嵌套一行三列的表格-->
+                <tr>
+                    <td>
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                    <img src="img/small08.jpg" height="40px"/>
+                                </td>
+                                <td align="center">
+                                    <img src="img/header.jpg" />
+                                </td>
+                                <td align="right">
+                                    <a href="#">登录</a>
+                                    <a href="#">注册</a>
+                                    <a href="#">购物车</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <!--
+                    菜单
+                -->
+                <tr>
+                    <td bgcolor="black" height="40px">
+                        &nbsp;<a href="#"><font color="white" size="4">首页</font></a>&nbsp;
+                        &nbsp;<a href="#"><font color="white" size="4">首页</font></a>&nbsp;
+                        &nbsp;<a href="#"><font color="white" size="4">首页</font></a>&nbsp;
+                    </td>
+                </tr>
+                <!--
+                    表单页面
+                -->
+                <tr>
+                    <td background="img/regist_bg.jpg">
+                        <form action="#" method="get">
+                            <table border="1" width=40% align="center" height="400px" bgcolor="white">
+                                <tr>
+                                    <td>用户名:</td>
+                                    <td colspan="2"><input name="username"></td>
+                                </tr>
+                                <tr>
+                                    <td>密码:</td>
+                                    <td colspan="2"><input name="password" type="password"></td>
+                                </tr>
+                                <tr>
+                                    <td>确认密码:</td>
+                                    <td colspan="2"><input name="password" type="password"></td>
+                                </tr>  
+                                <tr>
+                                    <td>邮箱:</td>
+                                    <td colspan="2"><input type="text"></td>
+                                </tr>   
+                                <tr>
+                                    <td>日期:</td>
+                                    <td colspan="2"><input type="date"></td>
+                                </tr>                     
+                            </table>
+                        </form>
+                    </td>
+                </tr>
+                <!--
+                    版权root
+                    两个段落
+                -->
+                <tr>
+                    <td>
+                        <p align="center">
+                            <a href="#">关于我们</a>
+                            <a href="#">关于我们</a>
+                            <a href="#">关于我们</a>
+                            <a href="#">关于我们</a>
+                            <a href="#">关于我们</a>
+                        </p>
+                        <p align="center">
+                            Copyright @ 2005-2016 版权所有
+                        </p>
+                    </td>
+                </tr>
+            </table>
+    </body>
+</html>
+////////////////////////
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>第6个网页</title>
+    </head>
+    <!-- <frameset cols="40%,60%">
+        <frame></frame>
+        <frame></frame>
+    </frameset> -->
+    <!-- <frameset cols="40%,*,10%">
+        <frame />
+        <frame />
+        <frame />
+    </frameset> -->
+    <frameset rows="18%,*,10%">
+        <frame src="./head.html"/>
+        <frameset cols="20%,*">
+            <frame src="./left.html"/>
+            <frame src="./main.html" name="mainFrame"/>
+        </frameset>>
+        <frame src="./foot.html"/>
+    </frameset>
+</html>
+//////////////////////

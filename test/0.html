@@ -1,0 +1,249 @@
+<!--
+    html标签：
+    声明
+    子标签：
+        <head></head>
+        <body></body>
+    head:用来存放当前页面的重要信息，一般不展示在html页面上
+        常见的子标签：
+        <title>
+        <meta charset="utf-8">
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        这些东西是做搜索引擎优化，网络爬虫的时候能爬出来
+    body：要展示的数据放在body中
+    标题标签：
+    <hn></hn>
+    n取的值是1到6
+    自动换行，且上下留白，默认加粗
+    常用的属性：
+            align:对齐方式 left right center
+    格式：
+            <h2 align="center"></h2>
+    字体标签：
+            <font></font>用来规定文本的字体，字体尺寸，字体颜色
+        常用属性：
+            face：字体
+            size：尺寸 取值 1-7
+            color：颜色
+                颜色的取值：（RGB）
+                方式1： #xxxxxx x为16进制 两个两个两个 正好对应RGB 红色是ff 其他00 也就是ff0000 能看到的就是红色
+                方式2： 英文单词
+
+    段落标签：
+            <p></p>
+    其他标签：
+            <b></b> <strong></strong> 加粗
+            <i></i> 斜体 
+    水平线:
+            <hr/>
+    换行:
+            <br/>
+    案例1-步骤分析
+    1. 新建一个html页面
+    2. 标题标签
+    3. 添加一个水平线
+    4. 4个段落
+    5. 添加字体颜色 加粗
+    6. 
+    案例2-图片网页展示
+    需求：
+            在一个页面中展示多张图片
+    技术分析：
+            <img/>
+    图片标签:
+            <img/>
+                常用属性：
+                    src:图片的路径
+                    alt:替代文字 就是图片万一展示不出来， 就显示出一些文字来替代
+                    title:移上去显示的文字
+                    width:宽
+                    height:高
+            大小写法：
+                像素：123px
+                百分比：20%
+
+            路径的写法：
+                相对路径：
+                    ./
+                    ../
+                绝对路径：
+    案例3-列表页面展示
+    需求：
+            将友情链接的页面通过列表展示出来
+        技术分析：
+            列表标签
+        列表标签：
+            <ol></ol>有序标签
+            <ul></ul>无序标签
+            常用的子标签
+                <li></li>列表项
+        超链接标记
+            <a></a>
+                常用属性：
+                    href:跳转路径
+                    target:在那里打开
+    案例4-首页信息展示
+    需求：
+            通过表格布局，将首页信息展示
+        技术分析：
+            表格布局
+        表格标签：
+            <table></table>
+                常用子标签
+                    <tr>行
+            <tr></tr>
+                常用子标签
+                    <td>一列
+                    <th>表头单元格
+                注意：
+                    一行必须只有一个单元格或者一列
+            table的常用属性:
+                border:边框 像素值
+                width:百分比 宽度
+                align：居中属性
+                bgcolor: 背景色
+            tr的常用属性：
+                align: 内容对齐
+                
+            td的常用属性：
+                align: 内容对齐
+                colspan: 跨列合并 值:合并的列数
+                rowspan: 跨行合并
+            th表头： 表头单元格, 居中并加粗
+    步骤分析：
+        1.创建一个8行1列的表格
+        2.在第一行放logo
+            嵌套一个1行三列的表格
+        3.第二行放菜单
+        4,第三行放图片（轮播图）
+        5.第四行放热门商品
+            嵌套一个两行7列的表格
+        6.第五行，放广告图片
+        7,第六行，最新商品
+            嵌套一个两行7列的表格
+        8,第七行，放一个图片
+        9,第八行，两个段落
+    案例5-表单页面
+    需求：
+        设计一个表单页面，用来收集用户的数据
+    技术分析：
+        表单标签
+    表单的常用属性：
+        action:信息提交的路径 默认是当前页面
+        method:表单提交的方式
+                get(默认)
+                post
+                get和post的区别：
+                    1.get请求会把所有的参数追加到地址栏上，post请求不会
+                    2.get请求的参数大小有限制，一般是1kb，post请求参数大小没有限制
+                    3.post相对于get请求安全
+    表单标签：
+        <form></form>
+    作用：
+        用来从浏览器端收集用户的信息。
+        表单常见的子标签：
+            input:输入框
+            select：下拉选
+            textarea：文本域
+        input标签
+            常用属性
+                type:
+                    text:文本框
+                    password:密码框
+                    radio:单选框
+                    checkbox:多选框 复选框
+                    file:文件框
+
+                    submit:提交
+                    reset:重置
+                    button:普通按钮 
+
+                    hidden:隐藏域 在页面上不显示，但提交的时候可以提交过去
+                    image:图片提交
+                name:
+                    可以将几个单选框（或者复选框）设置为一组
+                    要想将信息保存到服务器，必须有name属性
+                readonly:
+                    只读ss
+        select:下拉选
+            格式：
+                <select name="pro">
+                    <option>黑龙江</option>
+                </select>
+        textarea:文本域
+            常用属性：
+                cols: 列
+                rows: 行
+        提交到服务器的内容的格式：
+            key=value&
+        对于文本框 密码框 文本域 手写的内容传递过去了
+        对于单选框，多选框，却没有把值传递过去
+                要想吧值传递过去，必须设置value属性
+        要想把选中内容的值传递过去，请加上value属性
+
+        默认值：
+            文本框：只需要添加value属性即可
+            单选框多选框：添加checked="checked"
+            下拉选：添加selected="selected"
+            文本域:标签体
+
+步骤分析：
+1. 在页面中间添加一个表格
+2. 10行3列表格
+3. 在表格中添加表单子标签
+
+案例6-后台管理页面
+需求：
+    开发一个后台管理页面，通过frameset实现
+技术分析：
+    frameset:框架集
+    frame：具体实现
+frameset框架集
+    常用属性：
+        cols:垂直切割
+        rows:水平切割
+    常见子标签：
+        frame
+frame：具体实现
+    常用属性：
+        src:展示的页面的url
+    注意：
+        最好和body不要共存
+/////////
+补充：
+    转义字符：
+        三部分构成 &实体;
+        > &gt; //greater then
+        < &lt; //less then
+        & &amp
+        空格 &nbsp;
+///////////////
+meta
+    元信息
+    <meta charset="UTF-8">指定浏览器用什么编码打开此页面
+ -->
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>第四个网页</title>
+    </head>
+    <!-- <frameset cols="40%,60%">
+        <frame></frame>
+        <frame></frame>
+    </frameset> -->
+    <!-- <frameset cols="40%,*,10%">
+        <frame />
+        <frame />
+        <frame />
+    </frameset> -->
+    <frameset rows="18%,*,10%">
+        <frame src="./head.html"/>
+        <frameset cols="20%,*">
+            <frame src="./left.html"/>
+            <frame src="./main.html" name="mainFrame"/>
+        </frameset>>
+        <frame src="./foot.html"/>
+    </frameset>
+</html>
