@@ -222,28 +222,66 @@ frame：具体实现
 meta
     元信息
     <meta charset="UTF-8">指定浏览器用什么编码打开此页面
+
+案例2.1-用div+css重新布局首页
+技术分析：
+    div
+    css
+/////
+div：
+    块标签
+    <div></div>
+span:行内的块标签
+    <span></span>
+css:
+    渲染
+    层叠样式表
+    作用：
+        渲染页面
+        提高工作效率
+    格式：
+        选择期{属性：值;属性1：值1;}
+    后缀名:
+        .css 独立的css(样式)文件
+    和html元素的整合
+        方式1：内联样式表，通过标签的style属性来设置样式
+        方式2：内部样式表，在当前页面中使用的样式
+        方式3：外部样式表，有独立的css文件
+    选择器：
+        id选择器
+            要求：
+                html元素必须有id属性且有值 <xxx id="id1"></xxx>
+                css中通过#引入，后面加上id的值 #id{...}
+
+        class选择器
+            要求：
+            
+        元素选择器
+
+    派生选择器：
+        属性选择器
+        后代选择器
  -->
  <!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>第四个网页</title>
+        <title>第7个网页</title>
+        <style>
+            #divId2{
+                background-color: #0f0;
+            }
+        </style>
+        <link rel="stylesheet" href="1.css" type="text/css"/>
     </head>
-    <!-- <frameset cols="40%,60%">
-        <frame></frame>
-        <frame></frame>
-    </frameset> -->
-    <!-- <frameset cols="40%,*,10%">
-        <frame />
-        <frame />
-        <frame />
-    </frameset> -->
-    <frameset rows="18%,*,10%">
-        <frame src="./head.html"/>
-        <frameset cols="20%,*">
-            <frame src="./left.html"/>
-            <frame src="./main.html" name="mainFrame"/>
-        </frameset>>
-        <frame src="./foot.html"/>
-    </frameset>
+    <body>
+        <div id="divId3">天佑中国</div>
+        <div style="background-color: #f00;">天佑中国-内联</div>
+        <div id="divId2">天佑中国-内部</div>
+        <hr />
+        <span>天佑中国</span><span>天佑中国</span><span>天佑中国</span>
+        <font size="7">天佑中国</font>
+        <span style="font-size: 4cm;color: #ffff00">天佑中国</span>
+
+    </body>
 </html>
