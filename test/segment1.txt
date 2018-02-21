@@ -544,3 +544,689 @@
     </frameset>
 </html>
 //////////////////////
+
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>第7个网页</title>
+        <style>
+            #divId2{
+                background-color: #0f0;
+            }
+        </style>
+        <link rel="stylesheet" href="1.css" type="text/css"/>
+    </head>
+    <body>
+        <div id="divId3">天佑中国</div>
+        <div style="background-color: #f00;">天佑中国-内联</div>
+        <div id="divId2">天佑中国-内部</div>
+        <hr />
+        <span>天佑中国</span><span>天佑中国</span><span>天佑中国</span>
+        <font size="7">天佑中国</font>
+        <span style="font-size: 4cm;color: #ffff00">天佑中国</span>
+
+    </body>
+</html>
+/////////////////
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>第四个网页</title>
+    </head>
+    <body onload="init()">
+        <table border="1" width="100%">
+            <!--8行1列-->
+            <!--logo
+                嵌套一行三列的表格-->
+            <tr>
+                <td>
+                    <table width="100%">
+                        <tr>
+                            <td>
+                                <img src="img/small08.jpg" height="40px"/>
+                            </td>
+                            <td align="center">
+                                <img src="img/header.jpg" />
+                            </td>
+                            <td align="right">
+                                <a href="#">登录</a>
+                                <a href="#">注册</a>
+                                <a href="#">购物车</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!--
+                菜单
+            -->
+            <tr>
+                <td bgcolor="black" height="40px">
+                    &nbsp;<a href="#"><font color="white" size="4">首页</font></a>&nbsp;
+                    &nbsp;<a href="#"><font color="white" size="4">首页</font></a>&nbsp;
+                    &nbsp;<a href="#"><font color="white" size="4">首页</font></a>&nbsp;
+                </td>
+            </tr>
+            <!--
+                轮播图
+            -->
+            <tr>
+                <td>
+                    <img id="lunboid" src="img/1.jpg" width="100%" />
+                </td>
+            </tr>
+            <!--
+                热门商品
+                嵌套2行7列的表格
+            -->
+            <tr>
+                <td>
+                    <font size="6" face="黑体">热门商品</font>
+                    <img src="img/title2.jpg" />
+                    <table width="100%">
+                        <tr>
+                            <td rowspan="2">
+                                <img src="img/big01.jpg"/>
+                            </td>
+                            <td colspan="3">
+                                <img src="img/middle01.jpg"/>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!--
+                广告
+            -->
+            <tr>
+                <td>
+                    <img src="img/ad.jpg" width="100%"/>
+                </td>
+            </tr>
+            <!--
+                最新商品
+                嵌套2行7列表格
+            -->
+            <tr>
+                <td>
+                    <font size="6" face="黑体">最新商品</font>
+                    <img src="img/title2.jpg" />
+                    <table width="100%">
+                        <tr>
+                            <td rowspan="2">
+                                <img src="img/big01.jpg"/>
+                            </td>
+                            <td colspan="3">
+                                <img src="img/middle01.jpg"/>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>                            
+                            <td>
+                                <img src="img/small08.jpg"/>
+                                <p align="center"><a href="#">电饭煲</a></p>
+                                <p align="center">200</p>
+                            </td>
+                        </tr>
+                    </table>                    
+                </td>
+            </tr>
+            <!--
+                一张图片
+            -->
+            <tr>
+                <td>
+                    <img src="img/footer.jpg" width="100%"/>
+                </td>
+            </tr>
+            <!--
+                版权root
+                两个段落
+            -->
+            <tr>
+                <td>
+                    <p align="center">
+                        <a href="#">关于我们</a>
+                        <a href="#">关于我们</a>
+                        <a href="#">关于我们</a>
+                        <a href="#">关于我们</a>
+                        <a href="#">关于我们</a>
+                    </p>
+                    <p align="center">
+                        Copyright @ 2005-2016 版权所有
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </body>
+
+    <script>
+        var i = 1;
+        function init(){
+            //创建一个定时器
+            setInterval(changeImage, 3000);
+        }
+
+        //更改图片
+        // <img id="lunboid" src="img/1.jpg" width="100%" />
+        function changeImage(){
+            //获取图片元素
+            var imgObj = document.getElementById("lunboid");
+            i++;
+            //修改图片元素的src属性
+            imgObj.src = "img/" +i+ ".jpg";
+
+            if(i >= 3){
+                i = 0;
+            }
+
+        }
+    </script>
+</html>
+/////////////////
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <script>
+        //点击安妮据之后，给id为divid0的元素添加边框 背景色 宽高
+        function btnCli(){
+            //获取元素
+            var obj = document.getElementById("divid0");
+            //alert(obj);
+            //操作元素
+            //添加背景色
+            obj.style.backgroundColor="#ff0";
+
+            //添加边框
+            obj.style.border="1px solid red";
+
+            //添加宽和高
+            obj.style.width="100px";
+            obj.style.height="100px";
+
+            
+        }
+    </script>
+    <body>
+        <input type="button" value="将div加上样式" onclick="btnCli()">
+        <div id="divid0"></div>
+    </body>
+</html>
+///////////
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <script src="jquery-1.11.0.min.js"></script>
+        <script type="text/javascript">
+            $(function(){
+
+                $("#b1").click(function(){
+                    //1获取文本隐藏域
+                    $("input:hidden").each(function(index, dom){
+                        // alert(index);
+                        // alert(dom.value)
+                    });
+                });
+
+                $('#b2').click(function(){
+                    $.each($("input:hidden"), function(){
+                        alert($(this).val());
+                    });
+                });
+
+
+
+
+            });
+        </script>
+    
+    </head>
+    
+    <body>
+        <input type="button" value="选取所有的文本隐藏域，并打印他们的值" id="b1"/>
+        <input type="button" value="选取所有的文本隐藏域，并打印他们的值" id="b2"/>
+        <br /><br />
+
+        <!--文本隐藏域-->
+        <input type="hidden" value="hidden_1">
+        <input type="hidden" value="hidden_2">
+        <input type="hidden" value="hidden_3">
+        <input type="hidden" value="hidden_4">
+
+    </body>
+    
+</html>
+/////
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <script>
+            //定义二维数组
+            var arr = new Array(4);
+            arr[0] = new Array("哈尔滨", "齐齐哈尔", "大庆", "佳木斯");
+            arr[1] = new Array("长春市", "吉林市", "四平市", "通化市");
+            arr[2] = new Array("沈阳市", "锦州市", "大连市", "铁岭市");
+            arr[3] = new Array("郑州市", "洛阳市", "安阳市", "南阳市");
+        </script>
+        <script src="jquery-1.11.0.min.js"></script>
+        <script type="text/javascript">
+            $(function(){
+                $("[name='pro']").change(function(){
+                    //获取市下拉选
+                    var $city = $("[name='city']");
+                    //初始化
+                    $city.html($("<option>").html("-请选择-"));
+                    
+                    var pro = $(this).val();
+                    //alert(pro);
+                    //获取所有的市数组
+                    var cities = $(arr[pro]);
+                    //遍历数组，拼装成option 追加到市下拉选中
+                    cities.each(function(){
+                        $city.append("<option>"+this+"</option>");
+                    });
+                });
+            });
+        </script>
+    </head>
+    
+    <body>
+        <form action="#" method="get">
+            <input type="hidden" name="id" value="007" />
+            姓名:<input name="username" value="xuduoduo" /><br>
+            密码:<input type="password" name="password" value="123" disabled="disabled"><br>
+            姓名:<input type="radio" name="sex" value="1" checked="checked">男
+                <input type="radio" name="sex" value="0">女
+                <br>
+            爱好:<input type="checkbox" name="hobby" value="eat">吃
+                <input type="checkbox" name="hobby" value="drink" checked="checked">喝
+                <input type="checkbox" name="hobby" value="sleep" checked="checked">睡
+                <br>
+            头像:<input type="file" name="photo"><br>
+            籍贯:
+                <select name="pro">
+                    <option>-请选择-</option>
+                    <option value="0">黑龙江</option>
+                    <option value="1">吉林</option>
+                    <option value="2">辽宁</option>
+                    <option value="3">河南</option>
+                </select>
+                <select name="city">
+                    <option>-请选择-</option>
+                </select>
+                <br>
+                自我介绍:
+                    <textarea name="intr" cols="40" rows="4">good!</textarea>
+                <br>
+                <input type="submit" value="保存" />
+                <input type="reset" />
+                <input type="button" value="普通按钮" />
+        </form>
+
+    </body>
+    
+</html>
+/////////////
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>左右选中.html</title>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <script src="jquery-1.11.0.min.js"></script>
+        <script type="text/javascript">
+            $(function(){
+                //移动一个
+                $("#toRight1").click(function(){
+                    //>代表孩子
+                    $("#left>option:selected:first").appendTo($("#right"));
+                });
+
+                //移动多个
+                $("#toRight2").click(function(){
+                    $("#right").append($("#left option:selected"));
+                });
+
+                //移动全部
+                $("#toRight3").click(function(){
+                    $("#right").append($("#left option"));
+                });
+            })
+        </script>
+    <style>
+        input[type='button']{
+            width: 50px;
+        }
+    </style>
+    </head>
+    
+    <body>
+        <table>
+            <tr>
+                <td>
+                    <select id="left" multiple="true" style="width:100px" size="10">
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                        <option>6</option>
+                    </select>
+                </td>
+                <td>
+                    <input type="button" value=">" id="toRight1"><br>
+                    <input type="button" value=">>" id="toRight2"><br>
+                    <input type="button" value=">>>" id="toRight3"><br>
+                    <input type="button" value="<" id="toLeft1"><br>
+                    <input type="button" value="<<" id="toLeft2"><br>
+                    <input type="button" value="<<<" id="toLeft3">
+                </td>
+                <td>
+                    <select id="right" multiple="true" style="width:100px" size="10">
+
+                    </select>
+                </td>
+            </tr>
+        </table>
+    </body>
+    
+</html>
+////////
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <script src="jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="jquery.validate.js"></script>
+        <script type="text/javascript" src="messages_zh.js"></script>
+        <script type="text/javascript">
+            $(function(){
+                $("#formId").validate({
+                    rules:{
+                        //字段的name属性:"校验器"
+
+                        //字段的name属性:{校验器:"值"}
+                        username:"required",
+                        password:{
+                            required:true,
+                            digits:true
+                        },
+                        repassword:{
+                            equalTo:"[name='password']"
+                        },
+                        zuixiaozhi:{
+                            min:3
+                        },
+                        shuziqujian:{
+                            range:[5,10]
+                        }
+                    },
+                    messages:{
+                        //字段的name属性:"提示信息"
+                        //字段的name属性:{校验器:"提示信息",校验器:"提示信息"}
+                        username:"用户名不能为空",
+                        password:{
+                            required:"密码不能为空",
+                            digits:"密码只能为数字"
+                        },
+                        repassword:{
+                            equalTo:"两次输入的内容不一样"
+                        },
+                        zuixiaozhi:{
+                            min:"最小值应该大于{0}"
+                        },
+                        shuziqujian:{
+                            range:"输入的范围在{0}~{1}之间"
+                        }
+                    }
+                });
+            })
+        </script>
+    </head>
+    
+    <body>
+       <form id="formId" action="">
+           必填:<input type="text" name="username"/><br/>
+           必填数字:<input type="text" name="password"/><br/>
+           必填重复:<input type="text" name="repassword"/><br/>
+           最小值:<input type="text" name="zuixiaozhi"/><br/>
+           区间:<input type="text" name="shuziqujian"/><br/>
+           <input type="submit" value="提交"/>
+       </form>
+    </body>
+    
+</html>
+////////////////
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <script src="jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="jquery.validate.js"></script>
+        <script type="text/javascript" src="messages_zh.js"></script>
+        
+    </head>
+    <script type="text/javascript">
+        $(function(){
+            $("formid").validate({
+                rules:{
+                    username:"required",
+                    password:{
+                        rangelength:[3,6],
+                        required:true
+                    },
+                    repassword:{
+                        equalTo:"#password"
+                    },
+                    email:"email",
+                    sex:"required"
+                },
+                messages:{
+                    username:"用户名不能为空",
+                    password:{
+                        rangelength:"密码长度在{0}~{1}之间",
+                        required:"密码不能为空"
+                    }
+                }
+            });
+        })
+    </script>
+    <style>
+    </style>
+    <body>
+        <form action="#" method="get" id="formid">
+                <table width="60%" height="60%"  align="center" bgcolor="#ffffff">
+                    <tr>
+                        <td colspan="3">会员注册USER REGISTER</td>
+                    </tr>
+                    <tr>
+                        <td width="20%">用户名:</td>
+                        <td width="80%"><input type="text" name="username" id="username"></td>
+                    </tr>
+                    <tr>
+                        <td>密码:</td>
+                        <td><input type="password" name="password" id="password"></td>
+                    </tr>
+                    <tr>
+                        <td>确认密码:</td>
+                        <td><input type="password" name="repassword" id="repassword"></td>
+                    </tr>
+                    <tr>
+                        <td>Email:</td>
+                        <td><input type="text" name="email" id="email"></td>
+                    </tr>
+                    <tr>
+                        <td>姓名:</td>
+                        <td><input type="text" name="name"></td>
+                    </tr>
+                    <tr>
+                        <td>性别:</td>
+                        <td>
+                            <input type="radio" name="sex" value="男" checked="checked"> 男
+                            <input type="radio" name="sex" value="女" />女
+                            <!--<label for="sex" class="error"></label>-->
+                            <label for="sex" class="error"></label>
+                        </td>
+                    
+                    </tr>
+                    <tr>
+                        <td>出生日期</td>
+                        <td>
+                            <input type="text" name="birthday">
+    
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>验证码</td>
+                        <td>
+                            <input type="text" name="checkcode">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <input type="submit" value="注册" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+    </body>
+    
+</html>
+/////
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <script src="jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="jquery.validate.js"></script>
+        <script type="text/javascript" src="messages_zh.js"></script>
+        <link rel="stylesheet" href="css/bootstrap.min.css" />
+        <script type="text/javascript" src="js/bootstrap.min.js" ></script>
+    </head>
+    <script type="text/javascript">
+     
+    </script>
+    <style>
+    </style>
+    <body>
+        <div class="container">
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+            <div style="border: 1px solid red;" class="col-lg-1 col-md-2 col-sm-4">1</div>
+        </div>
+    </body>
+    
+</html>
+////////////
